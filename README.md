@@ -1,6 +1,6 @@
 # E-commerce Application Front-End
 
-The application was built using [Angular 9](https://angular.io/), [Bootstrap 4](https://getbootstrap.com/docs/4.4/getting-started/introduction/) and [ng-boostrap](https://ng-bootstrap.github.io/#/home). It is an Angular based front-end for the e-commerce Application called **luv2shop**. 
+The application was built using [Angular 9](https://angular.io/), [Bootstrap 4](https://getbootstrap.com/docs/4.4/getting-started/introduction/) and [ng-boostrap](https://ng-bootstrap.github.io/#/home). It is an Angular based front-end for the e-commerce Application called **luv2shop**.
 
 **The Full Stack Application with Angular front-end was deployed on Google Cloud Platform, to access it, click [here](https://gbloch-luv2shop.ew.r.appspot.com/).**
 
@@ -12,13 +12,13 @@ To see the back-end of this application implemented with Java Spring, see [here]
 
 1. Download the application by Clicking [this link](https://github.com/gaetanBloch/ecommerce-angular-front/archive/master.zip)
 2. Unzip the application
-3. Download and Install [node.js](https://nodejs.org/en/download/) 
+3. Download and Install [node.js](https://nodejs.org/en/download/)
 4. Open a terminal
 5. Make sure you have the latest version of the Angular CLI, if not:
-    - Run `npm uninstall -g angular-cli @angular/cli`
-    - Run `npm cache clean --force`
-    - Run  `npm install -g @angular/cli`
-6. Move to the root of the application
+   - Run `npm uninstall -g angular-cli @angular/cli`
+   - Run `npm cache clean --force`
+   - Run `npm install -g @angular/cli`
+6. Move to the root of the applicationa
 7. Run `npm install`
 8. Run `npm start`
 9. Navigate to http://localhost:4200/ with your favourite browser
