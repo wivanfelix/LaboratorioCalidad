@@ -8,7 +8,7 @@ The application was built using [Angular 9](https://angular.io/), [Bootstrap 4](
 
 To see the back-end of this application implemented with Java Spring, see [here](https://github.com/gaetanBloch/ecommerce-spring-back).
 
-## Running Application Process on your computer
+## Running Application Process on your personal computer
 
 1. Download the application by Clicking [this link](https://github.com/gaetanBloch/ecommerce-angular-front/archive/master.zip)
 2. Unzip the application
